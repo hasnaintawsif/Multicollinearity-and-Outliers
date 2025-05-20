@@ -1,1 +1,1 @@
-# Multicollinearity-and-Outliers
+# Multicollinearity-and-Outliers. Ridge & Lasso
